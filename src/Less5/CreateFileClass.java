@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class CreateFileClass {
     public static ArrayList<FIleObject> fIleObjectArrayList = new ArrayList<>();
-    public static final String pathToFile = "src/Less5/demo.csv";
+    public static final String pathToFile = "src/Less5/lesson5.csv";
     public static final String title = "value1"+ ";" + "value2"
             + ";" + "value3" + ";"+ System.getProperty("line.separator");
 
